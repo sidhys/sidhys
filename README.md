@@ -1,4 +1,4 @@
-# hey, i'm sid
+hey, i'm sid
 
 i like low-level stuff 
 
