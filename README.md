@@ -1,6 +1,1 @@
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidhys&layout=compact&bg_color=22272E&border_color=444C56&border_radius=6&text_color=ADBAC7)](https://github.com/anuraghazra/github-readme-stats)
-
-<!---
- ong 
---->
+![Metrics](https://metrics.lecoq.io/sidhys?template=classic&isocalendar=1&notable=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&config.timezone=America%2FNew_York)
