@@ -3,7 +3,7 @@
 😀 interested in just ab anything 
 
 
-if you don't see commits for a long period, i'm probably working on a big private project
+if you don't see any commits on my profile for a month or more, i'm probably working on a big private project
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sidhys&theme=algolia&show_icons=true&count_private=true)
