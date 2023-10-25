@@ -1,9 +1,7 @@
-**hi, i'm `sid`** 
+**Hi, i'm `Sid`👋** 
 
-😀 interested in just ab anything 
+😀 Interested in computer vision, federated learning, etc. 
 
-
-if you don't see any commits on my profile for a month or more, i'm probably working on a big private project
-
+A majority of my code projects are hosted on other git sites. I use github to contribute to projects already started on here/friends' work
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidhys&layout=compact&bg_color=22272E&border_color=444C56&border_radius=6&text_color=ADBAC7)](https://github.com/anuraghazra/github-readme-stats)
